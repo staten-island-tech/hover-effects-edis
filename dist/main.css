@@ -41,7 +41,7 @@ li {
               color: #6c7b95; }
   #page-content #showcase {
     height: 70vh;
-    background: url("../media/showcase-img.jpg") no-repeat top center/cover;
+    background: url("media/showcase-img.jpg") no-repeat top center/cover;
     font-family: "Roboto", sans-serif; }
     #page-content #showcase .container .showcase-content {
       display: grid;
