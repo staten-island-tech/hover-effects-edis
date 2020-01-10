@@ -1,0 +1,26 @@
+$primary-color: #6c7b95;
+$secondary-color: orange;
+$primary-light: #e3f6f5;
+$secondary-light: yellow;
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: "American Typewriter", sans-serif;
+  font-weight: 600;
+}
+
+.container {
+  max-width: 1100px;
+  margin: auto;
+  padding: 0.25rem 0;
+}
+
+li{
+  list-style: none;
+}
